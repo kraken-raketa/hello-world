@@ -7,21 +7,4 @@
 Какое расширение файла у данного проекта? - Расширением файла на языке C# является .cs что расшифровывается как C Sharp
 Какой код проекта?
 
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class HelloWorld : MonoBehaviour
-{
-	// Start is called before the first frame update
-	void Start()
-	{
-		print("Hello, World!");
-	}
-
-	//  Update is called once per frame
-	void Update()
-	{
-
-	}
-}
+<img width="661" height="483" alt="image" src="https://github.com/user-attachments/assets/233abd29-11d3-47bf-ac51-f209c4a5f2ab" />
